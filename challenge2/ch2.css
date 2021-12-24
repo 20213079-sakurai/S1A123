@@ -9,6 +9,8 @@
   margin: 0;
 }
 body {
+  background: url(wood.jpg) #504643;
+  text-align: center;
   margin: 0;
   padding: 40px;
 }
@@ -52,3 +54,9 @@ em {
 /*----------------------------
 この下に、CSSの指定を記述していきましょう。
 ----------------------------*/
+ul {
+  list-style: none;
+  padding-left: 0;
+  display: flex;
+}
+li { flex: 1 1 20%;}

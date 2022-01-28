@@ -34,6 +34,8 @@ section {
 img {
     display: block;
     margin-bottom: 5%;
+    width: 100%;
+    height: auto;
 }
 h2{
     color: #f83;

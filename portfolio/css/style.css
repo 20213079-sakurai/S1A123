@@ -646,3 +646,8 @@ li {
   top: 150%;
   } 
 }
+.pagetop {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+}
